@@ -294,7 +294,7 @@ function viewUser(user) {
             <div className='flex gap-4'>
               <button onClick={()=>addUser()}>
                 <Button variant="contained" endIcon={<SendIcon />}>
-                Send
+                Send 
                 </Button>
                 </button>
                  <button onClick={()=>setAddDialog(false)}>
